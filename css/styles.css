@@ -1,0 +1,43 @@
+* {
+    font-family: sans-serif;
+  }
+  .container {
+    background-color: rgb(15, 151, 47);
+    display: block;
+    margin: auto auto;
+    border-radius: 8px;
+  }
+  
+  header {
+    background-color: rgb(156, 243, 16);
+    border: 2px solid black;
+    border-radius: 8px;
+    display: block;
+    margin: auto auto 20px auto;
+  }
+  
+  section,
+  .container {
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .go {
+    text-align: center;
+  }
+  
+  button,
+  input[type="submit"],
+  input[type="reset"] {
+    border-radius: 4px;
+    background-color: rgb(52, 200, 226);
+  }
+  
+  body {
+    background-color: rgb(55, 52, 52);
+  }
+  
+  .bolded {
+    font-weight: bold;
+  }
+  
